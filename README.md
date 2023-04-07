@@ -33,8 +33,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/YosrTaieb/YosrTaieb/blob/output/snake.svg" alt="Snake animation" />
 
 ###
